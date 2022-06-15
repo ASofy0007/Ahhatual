@@ -1,0 +1,12 @@
+/* Fazer: Diminuir tamanho do nivel form(ta a ocupar tudo o que pode)
+          Por bonitinho for short*/
+
+.gInfo {
+  display: flex;
+}
+dl {
+  /* Era suposto por os numero a frente dos dois pontos e por um padding 
+  entre os elementos tempo e pontuacao but im too dumb to do it*/
+  display: flex;
+  padding: 30px;
+}
