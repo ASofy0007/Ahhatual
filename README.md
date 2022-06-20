@@ -1,2 +1,0 @@
-# Ahhatual
-Created with CodeSandbox
